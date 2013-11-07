@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Mal Graty']
   s.email       = ['mal.graty@googlemail.com']
   s.files       = ['lib/janky-flow.rb']
-  s.homepage    = 'http://rubygems.org/gems/janky-flow'
+  s.homepage    = 'https://github.com/mal/janky-flow'
   s.license     = 'MIT'
 
   s.files       = %x{ git ls-files *.rb }.split $/
